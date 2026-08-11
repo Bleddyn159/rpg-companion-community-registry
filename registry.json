@@ -2036,6 +2036,19 @@
     "has_system": false
   },
   {
+    "name": "viking-dnd-campaign-",
+    "description": "viking dnd campaign with new monsters classes weapons new ancounter template ",
+    "tags": [
+      "viking",
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/viking-dnd-campaign-",
+    "repo_url": "https://laurieanngraves-art.github.io/viking-dnd-campaign-/",
+    "has_system": false
+  },
+  {
     "name": "Gears-of-war-armory-",
     "description": "weapons and armors from the gears of war franchise ",
     "tags": [
