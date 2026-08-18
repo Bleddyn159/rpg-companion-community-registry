@@ -2110,5 +2110,18 @@
     "github_repo": "Bleddyn159/Witcher-Homebrew",
     "repo_url": "https://Bleddyn159.github.io/Witcher-Homebrew/",
     "has_system": false
+  },
+  {
+    "name": "Witcher-Class",
+    "description": "A Witcher class with Homebrew additions.",
+    "tags": [
+      "pf2e",
+      "class",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Bleddyn159/Witcher-Class",
+    "repo_url": "https://Bleddyn159.github.io/Witcher-Class/",
+    "has_system": false
   }
 ]
