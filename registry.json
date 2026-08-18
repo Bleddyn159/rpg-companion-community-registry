@@ -2097,5 +2097,18 @@
     "github_repo": "b75sd9hg8b-sketch/Umbrasyl-s-Clown-Nose-",
     "repo_url": "https://b75sd9hg8b-sketch.github.io/Umbrasyl-s-Clown-Nose-/",
     "has_system": false
+  },
+  {
+    "name": "Witcher-Homebrew",
+    "description": "A detailed class of Witcher that is close to that of the game titles.",
+    "tags": [
+      "pf2e",
+      "class",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Bleddyn159/Witcher-Homebrew",
+    "repo_url": "https://Bleddyn159.github.io/Witcher-Homebrew/",
+    "has_system": false
   }
 ]
