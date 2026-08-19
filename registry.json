@@ -11,7 +11,7 @@
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 10,
+    "stars": 11,
     "has_system": true
   },
   {
@@ -2099,6 +2099,32 @@
     "has_system": false
   },
   {
+    "name": "Phandelver-and-below-the-shattered-obelisk",
+    "description": "Everything from Phandelver so you can run a successful campagin",
+    "tags": [
+      "5e",
+      "pabtso",
+      "lmop"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk",
+    "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk/",
+    "has_system": false
+  },
+  {
+    "name": "Phandelver-and-below-the-shattered-obelisk-5.5",
+    "description": "Everything from Phandelver so that you can run a successful campaign, on 5.5 e",
+    "tags": [
+      "5e2024",
+      "pabtso",
+      "lmop"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk-5.5",
+    "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk-5.5/",
+    "has_system": false
+  },
+  {
     "name": "Witcher-Homebrew",
     "description": "A detailed class of Witcher that is close to that of the game titles.",
     "tags": [
@@ -2109,19 +2135,6 @@
     "stars": 0,
     "github_repo": "Bleddyn159/Witcher-Homebrew",
     "repo_url": "https://Bleddyn159.github.io/Witcher-Homebrew/",
-    "has_system": false
-  },
-  {
-    "name": "Witcher-Class",
-    "description": "A Witcher class with Homebrew additions.",
-    "tags": [
-      "pf2e",
-      "class",
-      "homebrew"
-    ],
-    "stars": 0,
-    "github_repo": "Bleddyn159/Witcher-Class",
-    "repo_url": "https://Bleddyn159.github.io/Witcher-Class/",
     "has_system": false
   }
 ]
